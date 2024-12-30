@@ -1,2 +1,1 @@
-# ESG-Report-Keyword-Analysis-with-Python-
-ESG Report Keyword Analysis
+# This project analyzes companies' ESG (Environmental, Social, and Governance) activities and evaluations to understand their sustainability practices and performance. It focuses on identifying key ESG trends, metrics, and alignment with global standards.
